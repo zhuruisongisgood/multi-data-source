@@ -1,0 +1,12 @@
+/.gradle
+/build/
+/bin/
+.idea
+*.iml
+/.gradle/
+.gradle
+build
+/.settings/
+/.project
+/.classpath
+log.path_IS_UNDEFINED/
